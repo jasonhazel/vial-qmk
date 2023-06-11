@@ -1,0 +1,5 @@
+#pragma once
+#define VIAL_KEYBOARD_UID {0x7B, 0xCD, 0xAC, 0xBF, 0x0B, 0x5E, 0xE0, 0xE6}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 7 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 4 }
+// #define RP2040_FLASH_GENERIC_03H
